@@ -166,8 +166,3 @@ print("Type 't' for terminating a proccess from the memory.")
 print("Type ':q' for quiting from the system.")
 
 inputData()
-
-
-
-
-
